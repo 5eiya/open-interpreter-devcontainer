@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "open-interpreter-gpt3"
+version = "0.1.0"
+description = ""
+authors = ["John Doe <johnd@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+open-interpreter = "^0.1.3"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

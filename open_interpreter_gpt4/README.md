@@ -1,0 +1,1 @@
+OpenAI API GPT-4を利用する場合の環境
